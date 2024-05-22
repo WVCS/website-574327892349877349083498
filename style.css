@@ -1,3 +1,22 @@
 body {
 
 }
+
+nav{
+  list-style-type: none;
+  position: fixed;
+  background-color: maroon;
+  width: 100vw;
+  top: 0;
+  left: 0;
+}
+li{ 
+  display: inline;
+  padding: 90;
+  color: white;
+  font-size: 25px;
+}
+a{ 
+  text-decoration: none;
+  color: white;
+}
